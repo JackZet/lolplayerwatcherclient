@@ -9,12 +9,12 @@
   pointer-events: none;
 }
 
-/*
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 5s linear;
   }
-}*/
+}
 
 .OPGG-container {
  margin: 10%;
@@ -34,7 +34,7 @@
   color: #307e94;
 }
 
-/*
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -42,7 +42,7 @@
   to {
     transform: rotate(360deg);
   }
-}*/
+}
 
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
